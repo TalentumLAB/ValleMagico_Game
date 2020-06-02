@@ -1,0 +1,85 @@
+ManifestFileVersion: 0
+CRC: 3845077587
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 95a9363a088fdbe0e3c8a77cae3794df
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a4e439282faba7da2fff7fe713060d98
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 1392445389, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 093d8d6245e39e64dbd48d45cc3c40c9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1dba4f44b0fb5b0478ae4ead4326c5f5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61b8ed8a1982c3745b6fb7dd1a6cce2d, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Minigames/signLanguage/Pruebas/perro@Sign.PNG
+- Assets/Resources/Minigames/signLanguage/G00LG_SC01/incendio@Sign.PNG
+- Assets/Resources/Prefabs/M_TypePanel.prefab
+- Assets/Resources/Minigames/Prefabs/EmptyCake@8.prefab
+- Assets/Resources/Minigames/Prefabs/RoundCake@6.prefab
+- Assets/Resources/Minigames/Prefabs/EmptyCake@9.prefab
+- Assets/Resources/Minigames/Prefabs/EmptyCake@6.prefab
+- Assets/Resources/Minigames/Prefabs/RoundCake@10.prefab
+- Assets/Resources/Minigames/Prefabs/EmptyCake@5.prefab
+- Assets/Resources/Minigames/signLanguage/Pruebas/gallina@Sign.PNG
+- Assets/Resources/Minigames/Prefabs/RoundCake@1.prefab
+- Assets/Resources/Minigames/signLanguage/Pruebas/caballo@Sign.PNG
+- Assets/Resources/Minigames/signLanguage/Pruebas/vaca@Sign.PNG
+- Assets/Resources/Minigames/signLanguage/G00LG_SC01/viento@Sign.PNG
+- Assets/Resources/Minigames/Prefabs/EmptyCake@4.prefab
+- Assets/Resources/Minigames/signLanguage/Pruebas/gallo@Sign.PNG
+- Assets/Resources/Minigames/Prefabs/EmptyCake@3.prefab
+- Assets/Resources/Minigames/signLanguage/G00LG_SC01/trueno@Sign.PNG
+- Assets/Resources/Minigames/Prefabs/RoundCake@3.prefab
+- Assets/Resources/Minigames/signLanguage/Pruebas/toro@Sign.PNG
+- Assets/Resources/Minigames/Minigame@Square.png
+- Assets/Resources/Minigames/signLanguage/Pruebas/gato@Sign.PNG
+- Assets/Resources/Minigames/signLanguage/G00LG_SC01/lluvia@Sign.PNG
+- Assets/Resources/Minigames/Prefabs/RoundCake@5.prefab
+- Assets/Resources/Minigames/Prefabs/RoundCake@2.prefab
+- Assets/Resources/Minigames/signLanguage/Pruebas/cerdo@Sign.PNG
+- Assets/Resources/Minigames/Prefabs/RoundCake@8.prefab
+- Assets/Resources/Minigames/Prefabs/EmptyCake@10.prefab
+- Assets/Resources/Minigames/Minigame@SquareWhite.png
+- Assets/Resources/Minigames/signLanguage/G00LG_SC01/rio@Sign.PNG
+- Assets/Resources/Minigames/Prefabs/EmptyCake@7.prefab
+- Assets/Resources/Prefabs/ZoomPanel.prefab
+- Assets/Resources/Minigames/Prefabs/RoundCake@9.prefab
+- Assets/Resources/Minigames/Prefabs/EmptyCake@1.prefab
+- Assets/Resources/Minigames/Prefabs/RoundCake@4.prefab
+- Assets/Resources/Minigames/Prefabs/EmptyCake@2.prefab
+- Assets/Resources/Minigames/Prefabs/RoundCake@7.prefab
+- Assets/Resources/Minigames/signLanguage/Pruebas/pollito@Sign.PNG
+Dependencies: []

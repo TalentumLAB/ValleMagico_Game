@@ -1,0 +1,33 @@
+ManifestFileVersion: 0
+CRC: 2457740966
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: be29181193aab2778c5d2ba5746a86db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Player/Type0/Gender0/Skin0/AnimationPlayer@child.png
+- Assets/Resources/Player/Type1/Gender1/Skin0/AnimationPlayer@child.png
+- Assets/Resources/Player/Type1/Gender1/Skin2/AnimationPlayer@child.png
+- Assets/Resources/Player/Type1/Gender0/Skin0/AnimationPlayer@child.png
+- Assets/Resources/Player/Type1/Gender0/Skin2/AnimationPlayer@child.png
+- Assets/Resources/Player/Type1/Gender0/Skin1/AnimationPlayer@child.png
+- Assets/Resources/Player/Type0/Gender0/Skin1/AnimationPlayer@child.png
+- Assets/Resources/Player/Type0/Gender0/Skin2/AnimationPlayer@child.png
+- Assets/Resources/Player/Type1/Gender0/Skin3/AnimationPlayer@child.png
+- Assets/Resources/Player/Type1/Gender1/Skin1/AnimationPlayer@child.png
+- Assets/Resources/Player/Type1/Gender1/Skin3/AnimationPlayer@child.png
+- Assets/Resources/Player/Type0/Gender1/Skin0/AnimationPlayer@child.png
+- Assets/Resources/Player/Type0/Gender1/Skin2/AnimationPlayer@child.png
+- Assets/Resources/Player/Type0/Gender0/Skin3/AnimationPlayer@child.png
+- Assets/Resources/Player/Type0/Gender1/Skin1/AnimationPlayer@child.png
+- Assets/Resources/Player/Type0/Gender1/Skin3/AnimationPlayer@child.png
+Dependencies: []
