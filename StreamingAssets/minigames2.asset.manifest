@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2455834728
+CRC: 3589340689
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ef1a3f58f873344d802ee700ea3e472d
+    Hash: e8d99dff8485203f74ebadd9ba04b7d7
   TypeTreeHash:
     serializedVersion: 2
     Hash: 03970310989e9ae0e8cd1c6f532688cc
@@ -99,6 +99,7 @@ Assets:
 - Assets/Resources/Minigames/Textures/G01IN_SA04/G01IN_SA04@Texture.png
 - Assets/Resources/Minigames/Textures2/G04LC_SL01/G04LC_SL01@Texture.png
 - Assets/Resources/Minigames/Textures/G01CS_ST01/G01CS_ST01@Texture.png
+- Assets/Resources/Minigames/Textures2/G02LC_SL01/G02LC_SL01-1.png
 - Assets/Resources/Minigames/Textures/G03IN_SA02/G03IN_SA02@Texture02.png
 - Assets/Resources/Minigames/Textures/G00CS_ST01/G00CS_ST01@Texture.png
 - Assets/Resources/Minigames/Textures/G04NT_SV01/G04NT_SV01@Texture_1.png
@@ -161,6 +162,7 @@ Assets:
 - Assets/Resources/Minigames/Textures/G09LG_SC01/G09LG_SC01_Texture_3.png
 - Assets/Resources/Minigames/Textures/G06NT_SV01/G06NT_SV01@Texture_1.png
 - Assets/Resources/Minigames/Textures/G04CS_ST01/Elementos.png
+- Assets/Resources/Minigames/Textures2/G02LC_SL01/G02LC_SL01.png
 - Assets/Resources/Minigames/Textures/G00MT_SM02/G00MT_SM02@Texture.png
 - Assets/Resources/Minigames/Textures2/G10CS_ST01/G10CS_ST01@Texture_1.png
 - Assets/Resources/Minigames/Textures/G03IN_SA01/Recursos5.png
