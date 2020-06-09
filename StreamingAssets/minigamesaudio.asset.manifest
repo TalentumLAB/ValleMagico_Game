@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1940815458
+CRC: 1840446060
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ae000a332263b793eb1d8720304325d1
+    Hash: 7ea0d6707fb9e733a9c0e8c1462aff81
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
@@ -14,6 +14,7 @@ ClassTypes:
 Assets:
 - Assets/Resources/Audios/G01LG_SC01/Estrellas.mp3
 - Assets/Resources/Audios/G03CS_ST01/3_Rafael.mp3
+- Assets/Resources/Audios/G05IN_SA02/G05IN_SA02@audio_1.mp3
 - Assets/Resources/Audios/Numeros/3.wav
 - Assets/Resources/Audios/InglesBody/Hand.wav
 - Assets/Resources/Audios/G00LG_SC01/rio.mp3
