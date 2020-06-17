@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1840446060
+CRC: 2162790113
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7ea0d6707fb9e733a9c0e8c1462aff81
+    Hash: 38be728c9d85e83a04c95f7e21850a87
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
@@ -15,6 +15,7 @@ Assets:
 - Assets/Resources/Audios/G01LG_SC01/Estrellas.mp3
 - Assets/Resources/Audios/G03CS_ST01/3_Rafael.mp3
 - Assets/Resources/Audios/G05IN_SA02/G05IN_SA02@audio_1.mp3
+- Assets/Resources/Audios/G02IN_SA03/question3.mp3
 - Assets/Resources/Audios/Numeros/3.wav
 - Assets/Resources/Audios/InglesBody/Hand.wav
 - Assets/Resources/Audios/G00LG_SC01/rio.mp3
@@ -22,10 +23,13 @@ Assets:
 - Assets/Resources/Audios/Animales/gato.mp3
 - Assets/Resources/Audios/InglesBody/Head.wav
 - Assets/Resources/Audios/InglesBody/Arm.wav
+- Assets/Resources/Audios/G02IN_SA03/question1.mp3
 - Assets/Resources/Audios/G03IN_SA01/Brush.wav
 - Assets/Resources/Audios/Animales/cerdo.mp3
 - Assets/Resources/Audios/G01IN_SA03/1Pizza.wav
 - Assets/Resources/Audios/G01IN_SA02/Hair.wav
+- Assets/Resources/Audios/G05LC_SL01/ronda4.mp3
+- Assets/Resources/Audios/G05LC_SL01/ronda1.mp3
 - Assets/Resources/Audios/Numeros/7.wav
 - Assets/Resources/Audios/G02IN_SA02/G02IN_SA02@audio_2.mp3
 - Assets/Resources/Audios/G00LG_SC01/incendio.mp3
@@ -47,11 +51,13 @@ Assets:
 - Assets/Resources/Audios/G03CS_ST01/7_Diana.mp3
 - Assets/Resources/Audios/G03IN_SA02/Advice1.mp3
 - Assets/Resources/Audios/InglesBody/neck.wav
+- Assets/Resources/Audios/G02IN_SA03/3.mp3
 - Assets/Resources/Audios/Numeros/4.wav
 - Assets/Resources/Audios/Numeros/6.wav
 - Assets/Resources/Audios/G03CS_ST01/2_Kite.mp3
 - Assets/Resources/Audios/Numeros/1.wav
 - Assets/Resources/Audios/G05IN_SA01/Ronda1.mp3
+- Assets/Resources/Audios/G05LC_SL01/audio.mp3
 - Assets/Resources/Audios/G01IN_SA03/2Llanta.wav
 - Assets/Resources/Audios/Animales/pollito.mp3
 - Assets/Resources/Audios/G02IN_SA02/G02IN_SA02@audio_1.mp3
@@ -60,6 +66,7 @@ Assets:
 - Assets/Resources/Audios/Animales/pavo.mp3
 - Assets/Resources/Audios/G01IN_SA02/Hand.wav
 - Assets/Resources/Audios/G05IN_SA01/Ronda3.mp3
+- Assets/Resources/Audios/G02IN_SA03/question5.mp3
 - Assets/Resources/Audios/G02LG_SC03/Ronda4.mp3
 - Assets/Resources/Audios/InglesBody/Face.wav
 - Assets/Resources/Audios/InglesBody/knee.wav
@@ -70,6 +77,7 @@ Assets:
 - Assets/Resources/Audios/G01IN_SA02/Elbow.wav
 - Assets/Resources/Audios/G02LG_SC03/Ronda5.mp3
 - Assets/Resources/Audios/Numeros/9.wav
+- Assets/Resources/Audios/G05LC_SL01/ronda2.mp3
 - Assets/Resources/Audios/Numeros/8.wav
 - Assets/Resources/Audios/InglesBody/Ear.wav
 - Assets/Resources/Audios/G03IN_SA01/Car.wav
@@ -88,6 +96,7 @@ Assets:
 - Assets/Resources/Audios/G00LG_SC01/trueno.mp3
 - Assets/Resources/Audios/InglesBody/Elbow.wav
 - Assets/Resources/Audios/G01LG_SC01/Nieve.mp3
+- Assets/Resources/Audios/G02IN_SA03/2.mp3
 - Assets/Resources/Audios/G02LG_SC03/Ronda3.mp3
 - Assets/Resources/Audios/G01LG_SC01/Arcoiris.mp3
 - Assets/Resources/Audios/G03CS_ST01/5_Juan.mp3
@@ -96,9 +105,13 @@ Assets:
 - Assets/Resources/Audios/InglesBody/chest.wav
 - Assets/Resources/Audios/G01LG_SC01/Sombrilla.mp3
 - Assets/Resources/Audios/G02LG_SC03/Ronda2.mp3
+- Assets/Resources/Audios/G05LC_SL01/ronda5.mp3
 - Assets/Resources/Audios/Animales/rana.mp3
 - Assets/Resources/Audios/G05IN_SA01/Ronda2.mp3
+- Assets/Resources/Audios/G05LC_SL01/ronda7.mp3
 - Assets/Resources/Audios/G03CS_ST01/6_Chirva.mp3
+- Assets/Resources/Audios/G02IN_SA03/question4.mp3
+- Assets/Resources/Audios/G02IN_SA03/1.mp3
 - Assets/Resources/Audios/Numeros/10.wav
 - Assets/Resources/Audios/G03IN_SA02/Advice2.mp3
 - Assets/Resources/Audios/G02IN_SA02/G02IN_SA02@audio_3.mp3
@@ -109,6 +122,8 @@ Assets:
 - Assets/Resources/Audios/G03IN_SA01/Laundry.wav
 - Assets/Resources/Audios/G03NT_SV01/Guitarra.mp3
 - Assets/Resources/Audios/G00LG_SC01/lluvia.mp3
+- Assets/Resources/Audios/G02IN_SA03/question2.mp3
+- Assets/Resources/Audios/G05LC_SL01/ronda6.mp3
 - Assets/Resources/Audios/Animales/oveja.mp3
 - Assets/Resources/Audios/InglesBody/Eyes.wav
 - Assets/Resources/Audios/Animales/toro.mp3
@@ -117,4 +132,5 @@ Assets:
 - Assets/Resources/Audios/G03IN_SA01/Shower.wav
 - Assets/Resources/Audios/G01IN_SA02/Head.wav
 - Assets/Resources/Audios/G01IN_SA02/knee.wav
+- Assets/Resources/Audios/G05LC_SL01/ronda3.mp3
 Dependencies: []

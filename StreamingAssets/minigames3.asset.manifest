@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 3698492881
+CRC: 3355237127
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: b568810d83d1af6db195ca433f2aac31
+    Hash: 558b15af720d8b486c2206857a7bb454
   TypeTreeHash:
     serializedVersion: 2
     Hash: 03970310989e9ae0e8cd1c6f532688cc
@@ -17,6 +17,39 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Resources/Minigames/TexturesLSC/LSC1@Texture.png
+- Assets/Resources/Minigames/Textures2/G06LC_SL01/Nuevo documento de texto.txt
+- Assets/Resources/Minigames/Textures2/G00IN_SA04/Mesa de trabajo 4.png
+- Assets/Resources/Minigames/Textures2/G07CS_ST03/G07CS_ST03@Texture_2.png
+- Assets/Resources/Minigames/Textures2/Nuevo documento de texto.txt
+- Assets/Resources/Minigames/Textures2/G01MT_SM03/G01MT_SM03@Texture.png
+- Assets/Resources/Minigames/Textures2/G07CS_ST02/G07CS_ST02@Texture_1.png
+- Assets/Resources/Minigames/Textures2/G07CS_ST02/G07CS_ST02@Texture_3.png
+- Assets/Resources/Minigames/Textures2/G08LC_SL01/G08LC_SL01@Texture_1.png
+- Assets/Resources/Minigames/Textures2/G09MT_SM02/G09MT_SM02@Texture_1.png
+- Assets/Resources/Minigames/Textures2/G03MT_SM04/G03MT_SM04@Texture_1.png
+- Assets/Resources/Minigames/Textures2/G00IN_SA04/Mesa de trabajo 3.png
+- Assets/Resources/Minigames/Textures2/G04MT_SM03/G04MT_SM03@Texture_1.png
 - Assets/Resources/Minigames/TexturesLSC/LSC3@Texture.png
+- Assets/Resources/Minigames/Textures2/G00MT_SM03/G00MT_SM03@Texture.png
+- Assets/Resources/Minigames/Textures2/G04LC_SL01/G04LC_SL01@Texture.png
+- Assets/Resources/Minigames/Textures2/G02LC_SL01/G02LC_SL01-1.png
+- Assets/Resources/Minigames/Textures2/G01MT_SM04/G01MT_SM04@Texture.png
+- Assets/Resources/Minigames/Textures2/G10CS_ST01/G10CS_ST01@Texture_2.png
+- Assets/Resources/Minigames/Textures2/G07CS_ST03/G07CS_ST03@Texture_1.png
+- Assets/Resources/Minigames/Textures2/G01MT_SM02/G01MT_SM02@Texture.png
+- Assets/Resources/Minigames/Textures2/G11NT_SV01/G11NT_SV01@Texture.png
+- Assets/Resources/Minigames/Textures2/G11MT_SM01/G11MT_SM01@Texture.png
+- Assets/Resources/Minigames/Textures2/G05LC_SL01/G05LC_SL01_1.png
+- Assets/Resources/Minigames/Textures2/G03LC_SL01/G03LC_SL01.png
+- Assets/Resources/Minigames/Textures2/G02LC_SL01/G02LC_SL01.png
+- Assets/Resources/Minigames/Textures2/G10CS_ST01/G10CS_ST01@Texture_1.png
+- Assets/Resources/Minigames/Textures2/G10NT_SV01/G10NT_SV01.png
+- Assets/Resources/Minigames/Textures2/G07CS_ST02/G07CS_ST02@Texture_4.png
+- Assets/Resources/Minigames/Textures2/G05LC_SL01/G05LC_SL01_2.png
 - Assets/Resources/Minigames/Tutorial/Nuevo documento de texto.txt
+- Assets/Resources/Minigames/Textures2/G05LC_SL01/G05LC_SL01_4.png
+- Assets/Resources/Minigames/Textures2/G00LC_SL01/G00LC_SL01@Texture.png
+- Assets/Resources/Minigames/Textures2/G05LC_SL01/G05LC_SL01_3.png
+- Assets/Resources/Minigames/Textures2/G08LC_SL01/G08LC_SL01@Texture_0.png
+- Assets/Resources/Minigames/Textures2/G07CS_ST02/G07CS_ST02@Texture_2.png
 Dependencies: []

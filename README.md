@@ -6,9 +6,12 @@ Se establece que versión del videojuego esta montado en el repositorio y, cuand
 mas vieja que la rama *master*, se actualiza
 
 ### Prueba de videojuego
-**Versión**: 0.0.2
+**Versión**: 0.0.4
 **Contenido**
 - Login
 - Avatar
-- Mapa con 3 minijuegos
-- Los minijuegos tienen la ronda cero v2
+- Mapa con todos los minijuegos actualizados hasta la fecha (17 junio 2020)
+
+***StreamingAssets***
+La carpeta contiene un JSON que se encargar de direccionar los servicios del videojuego a la base de datos.
+Si se desea cambiar la dirección de la base de datos del LAP, se debe abrir y modificar la variable 'serverHost' del objeto con 'typeServer' = 2.

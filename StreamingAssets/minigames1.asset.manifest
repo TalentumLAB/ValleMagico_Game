@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3845077587
+CRC: 4232015364
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 95a9363a088fdbe0e3c8a77cae3794df
+    Hash: 0338636696ba5b3aabf9412401127ab8
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a4e439282faba7da2fff7fe713060d98
+    Hash: 6ec3394c269272d4c49a1d53a6d855e2
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -22,8 +22,6 @@ ClassTypes:
 - Class: 114
   Script: {fileID: -765806418, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
-  Script: {fileID: 575553740, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-- Class: 114
   Script: {fileID: -900027084, guid: f70555f144d8491a825f0804e09c671c, type: 3}
 - Class: 114
   Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
@@ -31,8 +29,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 093d8d6245e39e64dbd48d45cc3c40c9, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 1dba4f44b0fb5b0478ae4ead4326c5f5, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 61b8ed8a1982c3745b6fb7dd1a6cce2d, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 128
@@ -46,7 +42,6 @@ ClassTypes:
 Assets:
 - Assets/Resources/Minigames/signLanguage/Pruebas/perro@Sign.PNG
 - Assets/Resources/Minigames/signLanguage/G00LG_SC01/incendio@Sign.PNG
-- Assets/Resources/Prefabs/M_TypePanel.prefab
 - Assets/Resources/Minigames/Prefabs/EmptyCake@8.prefab
 - Assets/Resources/Minigames/Prefabs/RoundCake@6.prefab
 - Assets/Resources/Minigames/Prefabs/EmptyCake@9.prefab
@@ -55,11 +50,14 @@ Assets:
 - Assets/Resources/Minigames/Prefabs/EmptyCake@5.prefab
 - Assets/Resources/Minigames/signLanguage/Pruebas/gallina@Sign.PNG
 - Assets/Resources/Minigames/Prefabs/RoundCake@1.prefab
+- Assets/Resources/Minigames/UI/Ronda0@Texture.png
 - Assets/Resources/Minigames/signLanguage/Pruebas/caballo@Sign.PNG
 - Assets/Resources/Minigames/signLanguage/Pruebas/vaca@Sign.PNG
 - Assets/Resources/Minigames/signLanguage/G00LG_SC01/viento@Sign.PNG
+- Assets/Resources/Minigames/UI/Ronda0@Texture2.png
 - Assets/Resources/Minigames/Prefabs/EmptyCake@4.prefab
 - Assets/Resources/Minigames/signLanguage/Pruebas/gallo@Sign.PNG
+- Assets/Resources/Minigames/UI/UI@Texture-0.png
 - Assets/Resources/Minigames/Prefabs/EmptyCake@3.prefab
 - Assets/Resources/Minigames/signLanguage/G00LG_SC01/trueno@Sign.PNG
 - Assets/Resources/Minigames/Prefabs/RoundCake@3.prefab
@@ -75,7 +73,6 @@ Assets:
 - Assets/Resources/Minigames/Minigame@SquareWhite.png
 - Assets/Resources/Minigames/signLanguage/G00LG_SC01/rio@Sign.PNG
 - Assets/Resources/Minigames/Prefabs/EmptyCake@7.prefab
-- Assets/Resources/Prefabs/ZoomPanel.prefab
 - Assets/Resources/Minigames/Prefabs/RoundCake@9.prefab
 - Assets/Resources/Minigames/Prefabs/EmptyCake@1.prefab
 - Assets/Resources/Minigames/Prefabs/RoundCake@4.prefab
