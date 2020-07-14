@@ -12,7 +12,7 @@
         },
         {
             "typeServer": 2,
-            "serverHost": "http://181.55.94.207:8088/valle/si/api/"
+            "serverHost": "http://my.content:8088/valle/si/api/"
         }
     ]
 }

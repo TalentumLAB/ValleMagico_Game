@@ -1,27 +1,27 @@
 ManifestFileVersion: 0
-CRC: 2117885334
+CRC: 101291541
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
-      Name: minigames3.asset
-      Dependencies: {}
-    Info_1:
-      Name: minigames1.asset
-      Dependencies: {}
-    Info_2:
-      Name: minigames2.asset
-      Dependencies: {}
-    Info_3:
       Name: event.asset
       Dependencies: {}
-    Info_4:
+    Info_1:
       Name: avatar.asset
       Dependencies: {}
-    Info_5:
+    Info_2:
       Name: player.asset
       Dependencies: {}
-    Info_6:
+    Info_3:
       Name: minigamesaudio.asset
+      Dependencies: {}
+    Info_4:
+      Name: minigames2.asset
+      Dependencies: {}
+    Info_5:
+      Name: minigames1.asset
+      Dependencies: {}
+    Info_6:
+      Name: minigames3.asset
       Dependencies: {}
     Info_7:
       Name: intelligences.asset

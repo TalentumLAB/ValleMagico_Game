@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1446531522
+CRC: 4126557373
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9e3c116b12723566946a1f12e53a31c7
+    Hash: 0ecbfec671b6dcb04e76f519e5212439
   TypeTreeHash:
     serializedVersion: 2
     Hash: 6ec3394c269272d4c49a1d53a6d855e2
@@ -41,7 +41,6 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Resources/Minigames/signLanguage/Pruebas/perro@Sign.PNG
-- Assets/Resources/Minigames/signLanguage/G00LG_SC01/incendio@Sign.PNG
 - Assets/Resources/Minigames/Prefabs/EmptyCake@8.prefab
 - Assets/Resources/Minigames/Prefabs/RoundCake@6.prefab
 - Assets/Resources/Minigames/Prefabs/EmptyCake@9.prefab
@@ -53,25 +52,22 @@ Assets:
 - Assets/Resources/Minigames/UI/Ronda0@Texture.png
 - Assets/Resources/Minigames/signLanguage/Pruebas/caballo@Sign.PNG
 - Assets/Resources/Minigames/signLanguage/Pruebas/vaca@Sign.PNG
-- Assets/Resources/Minigames/signLanguage/G00LG_SC01/viento@Sign.PNG
 - Assets/Resources/Minigames/UI/Ronda0@Texture2.png
 - Assets/Resources/Minigames/Prefabs/EmptyCake@4.prefab
 - Assets/Resources/Minigames/signLanguage/Pruebas/gallo@Sign.PNG
+- Assets/Resources/Minigames/signLanguage/G00LG_SC01/Sign.png
 - Assets/Resources/Minigames/UI/UI@Texture-0.png
 - Assets/Resources/Minigames/Prefabs/EmptyCake@3.prefab
-- Assets/Resources/Minigames/signLanguage/G00LG_SC01/trueno@Sign.PNG
 - Assets/Resources/Minigames/Prefabs/RoundCake@3.prefab
 - Assets/Resources/Minigames/signLanguage/Pruebas/toro@Sign.PNG
 - Assets/Resources/Minigames/Minigame@Square.png
 - Assets/Resources/Minigames/signLanguage/Pruebas/gato@Sign.PNG
-- Assets/Resources/Minigames/signLanguage/G00LG_SC01/lluvia@Sign.PNG
 - Assets/Resources/Minigames/Prefabs/RoundCake@5.prefab
 - Assets/Resources/Minigames/Prefabs/RoundCake@2.prefab
 - Assets/Resources/Minigames/signLanguage/Pruebas/cerdo@Sign.PNG
 - Assets/Resources/Minigames/Prefabs/RoundCake@8.prefab
 - Assets/Resources/Minigames/Prefabs/EmptyCake@10.prefab
 - Assets/Resources/Minigames/Minigame@SquareWhite.png
-- Assets/Resources/Minigames/signLanguage/G00LG_SC01/rio@Sign.PNG
 - Assets/Resources/Minigames/Prefabs/EmptyCake@7.prefab
 - Assets/Resources/Minigames/Prefabs/RoundCake@9.prefab
 - Assets/Resources/Minigames/Prefabs/EmptyCake@1.prefab
