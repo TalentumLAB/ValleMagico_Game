@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1083798895
+CRC: 333347378
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9cd79b039c8d623adb6675fd1a04125a
+    Hash: 3234d054c75fa188e0fa5e2ed792ca4c
   TypeTreeHash:
     serializedVersion: 2
     Hash: 03970310989e9ae0e8cd1c6f532688cc
@@ -20,6 +20,7 @@ Assets:
 - Assets/Resources/Minigames/Textures2/G00IN_SA04/Mesa de trabajo 4.png
 - Assets/Resources/Minigames/Textures2/G04MT_SM02/G04MT_SM02@Texture2.png
 - Assets/Resources/Minigames/Textures2/G07CS_ST03/G07CS_ST03@Texture_2.png
+- Assets/Resources/Minigames/Textures2/G08LC_SL01/G08LC_SL01@Preview.PNG
 - Assets/Resources/Minigames/Textures2/Nuevo documento de texto.txt
 - Assets/Resources/Minigames/Textures2/G01MT_SM03/G01MT_SM03@Texture.png
 - Assets/Resources/Minigames/Textures2/G07CS_ST02/G07CS_ST02@Texture_1.png
@@ -32,7 +33,9 @@ Assets:
 - Assets/Resources/Minigames/Textures2/G03MT_SM04/G03MT_SM04@Texture_1.png
 - Assets/Resources/Minigames/Textures2/G00IN_SA04/Mesa de trabajo 3.png
 - Assets/Resources/Minigames/Textures2/G04MT_SM03/G04MT_SM03@Texture_1.png
+- Assets/Resources/Minigames/Textures2/G00MT_SM03/G00MT_SM03@Preview.PNG
 - Assets/Resources/Minigames/TexturesLSC/LSC3@Texture.png
+- Assets/Resources/Minigames/Textures2/G01MT_SM04/G01MT_SM04@Preview.PNG
 - Assets/Resources/Minigames/Textures2/G00MT_SM03/G00MT_SM03@Texture.png
 - Assets/Resources/Minigames/Textures2/G04LC_SL01/G04LC_SL01@Texture.png
 - Assets/Resources/Minigames/Textures2/G02LC_SL01/G02LC_SL01-1.png
@@ -46,7 +49,9 @@ Assets:
 - Assets/Resources/Minigames/Textures2/G05LC_SL01/G05LC_SL01_1.png
 - Assets/Resources/Minigames/Textures2/G09MT_SM02/G09MT_SM02@Preview_1.png
 - Assets/Resources/Minigames/Textures2/G03LC_SL01/G03LC_SL01.png
+- Assets/Resources/Minigames/Textures2/G04MT_SM02/G04MT_SM02@Preview.png
 - Assets/Resources/Minigames/Textures2/G06LC_SL01/G06LC_SL01@Texture.png
+- Assets/Resources/Minigames/Textures2/G11NT_SV01/G11NT_SV01@Preview.PNG
 - Assets/Resources/Minigames/Textures2/IM06_CICLO2/IM06_CICLO2@Texture.png
 - Assets/Resources/Minigames/Textures2/G04MT_SM02/G04MT_SM02@Texture1.png
 - Assets/Resources/Minigames/Textures2/G04MT_SM03/G04MT_SM03@Preview_1.png
