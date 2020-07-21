@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1809321569
+CRC: 4076559375
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 04b41575c3a35357e62ccb2f78571e61
+    Hash: 87311930f4bd3e2fc7a8500d56077642
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
@@ -20,6 +20,7 @@ Assets:
 - Assets/Resources/Audios/Numeros/3.wav
 - Assets/Resources/Audios/InglesBody/Hand.wav
 - Assets/Resources/Audios/G00LG_SC01/rio.mp3
+- Assets/Resources/Audios/G09IN_SA01/G09IN_SA01_Audio2.mp3
 - Assets/Resources/Audios/G10IN_SA01/round2.mp3
 - Assets/Resources/Audios/G03NT_SV01/Tambora.mp3
 - Assets/Resources/Audios/Animales/gato.mp3
@@ -115,6 +116,7 @@ Assets:
 - Assets/Resources/Audios/G00LG_SC01/trueno.mp3
 - Assets/Resources/Audios/InglesBody/Elbow.wav
 - Assets/Resources/Audios/G01IN_SA04/White.mp3
+- Assets/Resources/Audios/G09IN_SA01/G09IN_SA01_Audio1.mp3
 - Assets/Resources/Audios/G01LG_SC01/Nieve.mp3
 - Assets/Resources/Audios/G05IN_SA02/G05IN_SA02@audio_3.mp3
 - Assets/Resources/Audios/G03IN_SA01/Car.mp3
