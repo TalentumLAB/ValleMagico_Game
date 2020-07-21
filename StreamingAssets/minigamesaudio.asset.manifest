@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2162318895
+CRC: 1809321569
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 48119bbaa449e502ca32f2a831feeaaf
+    Hash: 04b41575c3a35357e62ccb2f78571e61
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
@@ -12,6 +12,7 @@ ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 Assets:
+- Assets/Resources/Audios/G10IN_SA01/round3.mp3
 - Assets/Resources/Audios/G01LG_SC01/Estrellas.mp3
 - Assets/Resources/Audios/G03CS_ST01/3_Rafael.mp3
 - Assets/Resources/Audios/G05IN_SA02/G05IN_SA02@audio_1.mp3
@@ -19,8 +20,10 @@ Assets:
 - Assets/Resources/Audios/Numeros/3.wav
 - Assets/Resources/Audios/InglesBody/Hand.wav
 - Assets/Resources/Audios/G00LG_SC01/rio.mp3
+- Assets/Resources/Audios/G10IN_SA01/round2.mp3
 - Assets/Resources/Audios/G03NT_SV01/Tambora.mp3
 - Assets/Resources/Audios/Animales/gato.mp3
+- Assets/Resources/Audios/G01IN_SA04/Brown.mp3
 - Assets/Resources/Audios/InglesBody/Head.wav
 - Assets/Resources/Audios/InglesBody/Arm.wav
 - Assets/Resources/Audios/G02IN_SA03/question1.mp3
@@ -30,12 +33,15 @@ Assets:
 - Assets/Resources/Audios/G05LC_SL01/ronda4.mp3
 - Assets/Resources/Audios/G05LC_SL01/ronda1.mp3
 - Assets/Resources/Audios/Numeros/7.wav
+- Assets/Resources/Audios/G01IN_SA04/Purple.mp3
 - Assets/Resources/Audios/G02IN_SA02/G02IN_SA02@audio_2.mp3
 - Assets/Resources/Audios/G00LG_SC01/incendio.mp3
 - Assets/Resources/Audios/Animales/perro.mp3
 - Assets/Resources/Audios/InglesBody/Foot.wav
+- Assets/Resources/Audios/G10IN_SA01/introduction.mp3
 - Assets/Resources/Audios/G03IN_SA02/Advice4.mp3
 - Assets/Resources/Audios/G03IN_SA01/Shower.mp3
+- Assets/Resources/Audios/G01IN_SA04/Yellow.mp3
 - Assets/Resources/Audios/G03CS_ST01/1_Berenice.mp3
 - Assets/Resources/Audios/G01IN_SA03/4Huevo.wav
 - Assets/Resources/Audios/InglesBody/Nose.wav
@@ -57,9 +63,12 @@ Assets:
 - Assets/Resources/Audios/G03CS_ST01/2_Kite.mp3
 - Assets/Resources/Audios/Numeros/1.wav
 - Assets/Resources/Audios/G05IN_SA01/Ronda1.mp3
+- Assets/Resources/Audios/G05IN_SA02/G05IN_SA02@audio_4.mp3
 - Assets/Resources/Audios/G05LC_SL01/audio.mp3
+- Assets/Resources/Audios/G01IN_SA04/Blue.mp3
 - Assets/Resources/Audios/G01IN_SA03/2Llanta.wav
 - Assets/Resources/Audios/Animales/pollito.mp3
+- Assets/Resources/Audios/G00IN_SA04/round2.mp3
 - Assets/Resources/Audios/G02IN_SA02/G02IN_SA02@audio_1.mp3
 - Assets/Resources/Audios/G01LG_SC01/Lluvia.mp3
 - Assets/Resources/Audios/G01IN_SA02/neck.wav
@@ -74,12 +83,15 @@ Assets:
 - Assets/Resources/Audios/G00LG_SC02/Lluvia.mp3
 - Assets/Resources/Audios/G02IN_SA03/question8.mp3
 - Assets/Resources/Audios/G03NT_SV01/Marimba.mp3
+- Assets/Resources/Audios/G01IN_SA04/Red.mp3
 - Assets/Resources/Audios/InglesBody/Hair.wav
 - Assets/Resources/Audios/G01IN_SA02/Elbow.wav
 - Assets/Resources/Audios/G02LG_SC03/Ronda5.mp3
 - Assets/Resources/Audios/G04IN_SA02/R1.mp3
 - Assets/Resources/Audios/Numeros/9.wav
+- Assets/Resources/Audios/G00IN_SA04/round1.mp3
 - Assets/Resources/Audios/G05LC_SL01/ronda2.mp3
+- Assets/Resources/Audios/G01IN_SA04/Orange.mp3
 - Assets/Resources/Audios/Numeros/8.wav
 - Assets/Resources/Audios/InglesBody/Ear.wav
 - Assets/Resources/Audios/G04IN_SA01/round7.mp3
@@ -89,6 +101,7 @@ Assets:
 - Assets/Resources/Audios/G04IN_SA01/round2.mp3
 - Assets/Resources/Audios/InglesBody/ankle.wav
 - Assets/Resources/Audios/Animales/gallina.mp3
+- Assets/Resources/Audios/G05IN_SA02/G05IN_SA02@audio_2.mp3
 - Assets/Resources/Audios/Animales/caballo.mp3
 - Assets/Resources/Audios/G03IN_SA02/Advice5.mp3
 - Assets/Resources/Audios/G01IN_SA02/Leg.wav
@@ -97,10 +110,13 @@ Assets:
 - Assets/Resources/Audios/G02IN_SA03/question9.mp3
 - Assets/Resources/Audios/G03IN_SA01/Brush.mp3
 - Assets/Resources/Audios/G01IN_SA03/5Canasta.wav
+- Assets/Resources/Audios/G01IN_SA04/Black.mp3
 - Assets/Resources/Audios/InglesBody/nail.wav
 - Assets/Resources/Audios/G00LG_SC01/trueno.mp3
 - Assets/Resources/Audios/InglesBody/Elbow.wav
+- Assets/Resources/Audios/G01IN_SA04/White.mp3
 - Assets/Resources/Audios/G01LG_SC01/Nieve.mp3
+- Assets/Resources/Audios/G05IN_SA02/G05IN_SA02@audio_3.mp3
 - Assets/Resources/Audios/G03IN_SA01/Car.mp3
 - Assets/Resources/Audios/G02IN_SA03/2.mp3
 - Assets/Resources/Audios/G02LG_SC03/Ronda3.mp3
@@ -110,6 +126,7 @@ Assets:
 - Assets/Resources/Audios/G02IN_SA03/question7.mp3
 - Assets/Resources/Audios/G02LG_SC03/Ronda1.mp3
 - Assets/Resources/Audios/G05IN_SA01/Ronda4.mp3
+- Assets/Resources/Audios/G10IN_SA01/round1.mp3
 - Assets/Resources/Audios/InglesBody/chest.wav
 - Assets/Resources/Audios/G01LG_SC01/Sombrilla.mp3
 - Assets/Resources/Audios/G02LG_SC03/Ronda2.mp3
@@ -120,6 +137,7 @@ Assets:
 - Assets/Resources/Audios/G03CS_ST01/6_Chirva.mp3
 - Assets/Resources/Audios/G02IN_SA03/question4.mp3
 - Assets/Resources/Audios/G02IN_SA03/1.mp3
+- Assets/Resources/Audios/G00IN_SA04/round3.mp3
 - Assets/Resources/Audios/Numeros/10.wav
 - Assets/Resources/Audios/G03IN_SA02/Advice2.mp3
 - Assets/Resources/Audios/G02IN_SA02/G02IN_SA02@audio_3.mp3
@@ -139,11 +157,15 @@ Assets:
 - Assets/Resources/Audios/InglesBody/Eyes.wav
 - Assets/Resources/Audios/G03IN_SA01/Laundry.mp3
 - Assets/Resources/Audios/Animales/toro.mp3
+- Assets/Resources/Audios/G05IN_SA02/G05IN_SA02@audio_5.mp3
 - Assets/Resources/Audios/G04IN_SA01/round4.mp3
+- Assets/Resources/Audios/G01IN_SA04/Green.mp3
 - Assets/Resources/Audios/G03NT_SV01/Piano.mp3
 - Assets/Resources/Audios/G03IN_SA01/Pipes.mp3
 - Assets/Resources/Audios/Numeros/2.wav
+- Assets/Resources/Audios/G10IN_SA01/round4.mp3
 - Assets/Resources/Audios/G04IN_SA01/round6.mp3
+- Assets/Resources/Audios/G00IN_SA04/round4.mp3
 - Assets/Resources/Audios/G01IN_SA02/Head.wav
 - Assets/Resources/Audios/G01IN_SA02/knee.wav
 - Assets/Resources/Audios/G05LC_SL01/ronda3.mp3

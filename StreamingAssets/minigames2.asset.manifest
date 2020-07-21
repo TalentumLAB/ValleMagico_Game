@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 835119245
+CRC: 3540202514
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 79e0da8bd372d6e74397b75d45559f64
+    Hash: 5b664f556ebfab22e31fc9eb1d0427ff
   TypeTreeHash:
     serializedVersion: 2
     Hash: ea5a42e0fd8ea905efa7aa926a3b8944
@@ -30,6 +30,8 @@ Assets:
 - Assets/Resources/Minigames/Textures/G03CS_ST01/G03CS_ST01@Preview.png
 - Assets/Resources/Minigames/Textures/G06CS_ST01/G06CS_ST01@Texture.png
 - Assets/Resources/Minigames/Textures/G04IN_SA03/G04IN_SA03@Texture01.png
+- Assets/Resources/Minigames/Textures/G02MT_SM01/G02MT_SM01@Preview.PNG
+- Assets/Resources/Minigames/Textures/G07IN_SA01/G07IN_SA01@Preview_1.png
 - Assets/Resources/Minigames/Textures/G03NT_SV01/G03NT_SV01@Preview.PNG
 - Assets/Resources/Minigames/Textures/G02LG_SC03/G02LG_SC03@Texture_0.png
 - Assets/Resources/Minigames/Textures/G00MT_SM01/G00MT_SM01@Texture02.png
@@ -41,12 +43,13 @@ Assets:
 - Assets/Resources/Minigames/Textures/G08NT_SV01/G08NT_SV01@Texture_1.png
 - Assets/Resources/Minigames/Textures/G04LG_SC01/G04LG_SC01@Texture_2.png
 - Assets/Resources/Minigames/Textures/G05LG_SC01/G05LG_SC01@Texture_1.png
-- Assets/Resources/Minigames/Textures/G02MT_SM01/G02MT_SM01@Preview.JPG
 - Assets/Resources/Minigames/Textures/G05MT_SM02/G05MT_SM02@Texture02.png
 - Assets/Resources/Minigames/Textures/G05LG_SC01/G05LG_SC01@Texture_2.png
 - Assets/Resources/Minigames/Textures/G02CS_ST01/G02CS_ST01@Texture_2.png
+- Assets/Resources/Minigames/Textures/G08CS_ST01/Preview.png
 - Assets/Resources/Minigames/Textures/G02LG_SC02/G02LG_SC02@Preview.png
 - Assets/Resources/Minigames/Textures/G00LG_SC01-02/G00LG_SC02.png
+- Assets/Resources/Minigames/Textures/G05IN_SA02/G05IN_SA02@Preview_1.png
 - Assets/Resources/Minigames/Textures/G05LG_SC02/G05LG_SC02@Texture_2.png
 - Assets/Resources/Minigames/Textures/G05LG_SC01/G05LG_SC01@Texture_0.png
 - Assets/Resources/Minigames/Textures/G00LG_SC01-02/G00LG_SC01@Preview.png
@@ -61,7 +64,6 @@ Assets:
 - Assets/Resources/Minigames/Textures/G01LG_SC03/Preview.png
 - Assets/Resources/Minigames/Textures/G02MT_SM02/G02MT_SM02.png
 - Assets/Resources/Minigames/Textures/G10IN_SA01/G10IN_SA01.png
-- Assets/Resources/Minigames/Textures/G00LG_SC01-02/Preview.png
 - Assets/Resources/Minigames/Textures/G02LG_SC01/G02LG_SC01@Texture.png
 - Assets/Resources/Minigames/Textures/G08IN_SA01/G08IN_SA01@Preview.png
 - Assets/Resources/Minigames/Textures/G03CS_ST01/G03CS_ST01@Texture_3.png
@@ -81,7 +83,6 @@ Assets:
 - Assets/Resources/Minigames/Textures/G04NT_SV01/G04NT_SV01@Texture_2.png
 - Assets/Resources/Minigames/Textures/G00LG_SC03/G00LG_SC03@Preview_1.png
 - Assets/Resources/Minigames/Textures/G02LG_SC01/G02LG_SC01@Texture_2.png
-- Assets/Resources/Minigames/Textures/G03LG_SC02/Preview.png
 - Assets/Resources/Minigames/Textures/G03IN_SA02/G03IN_SA02@Texture03.png
 - Assets/Resources/Minigames/Textures/G03IN_SA03/G03IN_SA03@Preview.png
 - Assets/Resources/Minigames/Textures/G07LG_SC01/G07LG_SC01@Preview_1.png
@@ -95,6 +96,7 @@ Assets:
 - Assets/Resources/Minigames/Textures/G02CS_ST01/G02CS_ST01@preview_2.png
 - Assets/Resources/Minigames/Textures/G02MT_SM01/G02MT_SM01@Texture_0.png
 - Assets/Resources/Minigames/Textures/G11LG_SC01/G11LG_SC01.png
+- Assets/Resources/Minigames/Textures/G01IN_SA03/G01IN_SA03@Preview.PNG
 - Assets/Resources/Minigames/Textures/G10IN_SA01/Preview1.png
 - Assets/Resources/Minigames/Textures/G09MT_SM01/G09MT_SM01@Texture.png
 - Assets/Resources/Minigames/Textures/G09IN_SA01/Recursos 4.png
@@ -112,6 +114,7 @@ Assets:
 - Assets/Resources/Minigames/Textures/G00IN_SA02/G00IN_SA01@Preview.PNG
 - Assets/Resources/Minigames/Textures/G04MT_SM01/G04MT_SM01@Preview.JPG
 - Assets/Resources/Minigames/Textures/G02LG_SC03/G02LG_SC03@Texture_1.png
+- Assets/Resources/Minigames/Textures/G00LG_SC01-02/Preview.png
 - Assets/Resources/Minigames/Textures/G09LG_SC01/G09LG_SC01_Texture_1.png
 - Assets/Resources/Minigames/Textures/G11LG_SC01/Preview.png
 - Assets/Resources/Minigames/Textures/G08NT_SV01/G08NT_SV01@Preview.PNG
@@ -126,6 +129,7 @@ Assets:
 - Assets/Resources/Minigames/Textures/G03LG_SC02/G03LG_SC02@Texture_0.png
 - Assets/Resources/Minigames/Textures/G09IN_SA01/Recursos 5.png
 - Assets/Resources/Minigames/Textures/G01LG_SC01/G01LG_SC01@Preview.png
+- Assets/Resources/Minigames/Textures/G10MT_SM01/G10MT_SM01@Preview.png
 - Assets/Resources/Minigames/Textures/G05CS_ST01/G05CS_ST01-1.png
 - Assets/Resources/Minigames/Textures/G00LG_SC01-02/G00LG_SC01@Texture_0.png
 - Assets/Resources/Minigames/Textures/G03MT_SM02/G03MT_SM02@Texture_1.png
@@ -156,6 +160,7 @@ Assets:
 - Assets/Resources/Minigames/Textures/G10MT_SM01/G10MT_SM01@Texture.png
 - Assets/Resources/Minigames/Textures/G06MT_SM02/G06MT_SM02@Preview_1.png
 - Assets/Resources/Minigames/Textures/G05CS_ST01/G05CS_ST01.png
+- Assets/Resources/Minigames/Textures/G06CS_ST03/G06CS_ST03@Preview.png
 - Assets/Resources/Minigames/Textures/G00MT_SM01/G00MT_SM01@Texture01.png
 - Assets/Resources/Minigames/Textures/G08MT_SM02/G08MT_SM02@Texture_1.png
 - Assets/Resources/Minigames/Textures/G09CS_ST01/G09CS_ST01@Texture_1.png
@@ -179,8 +184,10 @@ Assets:
 - Assets/Resources/Minigames/Textures/G02NT_SV01/G02NT_SV01@Texture1.png
 - Assets/Resources/Minigames/Textures/G03CS_ST01/G03CS_ST01@Texture_2.png
 - Assets/Resources/Minigames/Textures/G03IN_SA02/G03IN_SA02@Texture01.png
+- Assets/Resources/Minigames/Textures/G06LG_SC02/G06LG_SC02@Preview.png
 - Assets/Resources/Minigames/Textures/G10LG_SC01/Recursos 6.png
 - Assets/Resources/Minigames/Textures/G08MT_SM02/G08MT_SM02@Texture_2.png
+- Assets/Resources/Minigames/Textures/G09CS_ST01/G09CS_ST01@Preview.png
 - Assets/Resources/Minigames/Textures/G02LG_SC03/G02LG_SC03@Preview.png
 - Assets/Resources/Minigames/Textures/G02MT_SM01/G02MT_SM01@Texture_2.png
 - Assets/Resources/Minigames/Textures/G03CS_ST01/G03CS_ST01@Texture_4.png
@@ -192,9 +199,9 @@ Assets:
 - Assets/Resources/Minigames/Textures/G03MT_SM02/G03MT_SM02@Texture_0.png
 - Assets/Resources/Minigames/Textures/G02IN_SA03/Preview1.png
 - Assets/Resources/Minigames/Textures/G06IN_SA01/G06IN_SA01@Texture_2.png
-- Assets/Resources/Minigames/Textures/G01IN_SA03/G01IN_SA03@Preview.JPG
 - Assets/Resources/Minigames/Textures/G00IN_SA01/Preview-10.png
 - Assets/Resources/Minigames/Textures/G05IN_SA02/G05IN_SA02@Texture_2.png
+- Assets/Resources/Minigames/Textures/G01LC_SL01/G01LC_SL01@Preview.PNG
 - Assets/Resources/Minigames/Textures/G09CS_ST01/G09CS_ST01@Texture_2.png
 - Assets/Resources/Minigames/Textures/G01LG_SC02/G01LG_SC02@Texture.png
 - Assets/Resources/Minigames/Textures/G09MT_SM01/G09MT_SM01@Preview.png
@@ -218,11 +225,13 @@ Assets:
 - Assets/Resources/Minigames/Textures/G01MT_SM01/G01MT_SM01@Texture_Preview.png
 - Assets/Resources/Minigames/Textures/G01IN_SA01/G01IN_SA01@Preview.png
 - Assets/Resources/Minigames/Textures/G08LG_SC02/G08LG_SC02@Texture_1.png
+- Assets/Resources/Minigames/Textures/G06CS_ST02/Preview.png
 - Assets/Resources/Minigames/Textures/G01IN_SA02/G01IN_SA02@Preview1.JPG
 - Assets/Resources/Minigames/Textures/G06IN_SA01/G06IN_SA01@Texture_1.png
 - Assets/Resources/Minigames/Textures/G04MT_SM01/G04MT_SM01@Texture.png
 - Assets/Resources/Minigames/Textures/G04NT_SV01/G04NT_SV01@Preview_1.png
 - Assets/Resources/Minigames/Textures/G02CS_ST01/G02CS_ST01@BackGround_2.png
+- Assets/Resources/Minigames/Textures/G01IN_SA04/G01IN_SA04@Preview.png
 - Assets/Resources/Minigames/Textures/G06CS_ST02/G06CS_ST02.png
 - Assets/Resources/Minigames/Textures/G00IN_SA03/Preview.png
 - Assets/Resources/Minigames/Textures/G01IN_SA03/G01IN_SA03@Texture_0.png
@@ -249,6 +258,7 @@ Assets:
 - Assets/Resources/Minigames/Textures/G07NT_SV01/G07NT_SV01@Texture_2.png
 - Assets/Resources/Minigames/Textures/G02IN_SA02/G02IN_SA02@round0.png
 - Assets/Resources/Minigames/Textures/G09LG_SC01/CuadradoRedondeado.png
+- Assets/Resources/Minigames/Textures/G01LC_SL01/G01LC_SL01@Preview2.PNG
 - Assets/Resources/Minigames/Textures/G03CS_ST01/G03CS_ST01@Texture_1.png
 - Assets/Resources/Minigames/Textures/G03IN_SA02/G03IN_SA02@Preview.png
 - Assets/Resources/Minigames/Textures/G08MT_SM02/G08MT_SM02@Texture_0.png
@@ -260,6 +270,7 @@ Assets:
 - Assets/Resources/Minigames/Textures/G11IN_SA01/G11IN_SA01@Texture5.png
 - Assets/Resources/Minigames/Textures/G05LG_SC01/G05LG_SC01@Preview.png
 - Assets/Resources/Minigames/Textures/G03LG_SC03/Mesa de trabajo 7 copia.png
+- Assets/Resources/Minigames/Textures/G03LG_SC02/Preview.png
 - Assets/Resources/Minigames/Textures/G07LG_SC01/G07LG_SC01@Texture_1.png
 - Assets/Resources/Minigames/Textures/G04IN_SA02/Assets.png
 Dependencies: []
