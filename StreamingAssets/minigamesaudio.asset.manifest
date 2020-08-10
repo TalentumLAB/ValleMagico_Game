@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4076559375
+CRC: 2817225697
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 87311930f4bd3e2fc7a8500d56077642
+    Hash: 4aca8178b404b0ce32a8a38e02302f03
   TypeTreeHash:
     serializedVersion: 2
     Hash: 3f7d0c5e0986ec71841622bcb2f9be1c
@@ -18,6 +18,7 @@ Assets:
 - Assets/Resources/Audios/G05IN_SA02/G05IN_SA02@audio_1.mp3
 - Assets/Resources/Audios/G02IN_SA03/question3.mp3
 - Assets/Resources/Audios/Numeros/3.wav
+- Assets/Resources/Audios/G10IN_SA01/img3.mp3
 - Assets/Resources/Audios/InglesBody/Hand.wav
 - Assets/Resources/Audios/G00LG_SC01/rio.mp3
 - Assets/Resources/Audios/G09IN_SA01/G09IN_SA01_Audio2.mp3
@@ -39,6 +40,7 @@ Assets:
 - Assets/Resources/Audios/G00LG_SC01/incendio.mp3
 - Assets/Resources/Audios/Animales/perro.mp3
 - Assets/Resources/Audios/InglesBody/Foot.wav
+- Assets/Resources/Audios/G10IN_SA01/img2.mp3
 - Assets/Resources/Audios/G10IN_SA01/introduction.mp3
 - Assets/Resources/Audios/G03IN_SA02/Advice4.mp3
 - Assets/Resources/Audios/G03IN_SA01/Shower.mp3
@@ -64,8 +66,9 @@ Assets:
 - Assets/Resources/Audios/G03CS_ST01/2_Kite.mp3
 - Assets/Resources/Audios/Numeros/1.wav
 - Assets/Resources/Audios/G05IN_SA01/Ronda1.mp3
+- Assets/Resources/Audios/G00MT_SM03/Ronda4.mp3
 - Assets/Resources/Audios/G05IN_SA02/G05IN_SA02@audio_4.mp3
-- Assets/Resources/Audios/G05LC_SL01/audio.mp3
+- Assets/Resources/Audios/G07IN_SA01/G07IN_SA01_Audio.mp3
 - Assets/Resources/Audios/G01IN_SA04/Blue.mp3
 - Assets/Resources/Audios/G01IN_SA03/2Llanta.wav
 - Assets/Resources/Audios/Animales/pollito.mp3
@@ -93,8 +96,11 @@ Assets:
 - Assets/Resources/Audios/G00IN_SA04/round1.mp3
 - Assets/Resources/Audios/G05LC_SL01/ronda2.mp3
 - Assets/Resources/Audios/G01IN_SA04/Orange.mp3
+- Assets/Resources/Audios/G04IN_SA02/R2.mp3
 - Assets/Resources/Audios/Numeros/8.wav
+- Assets/Resources/Audios/G00MT_SM03/Ronda1.mp3
 - Assets/Resources/Audios/InglesBody/Ear.wav
+- Assets/Resources/Audios/G04IN_SA01/round1.1.mp3
 - Assets/Resources/Audios/G04IN_SA01/round7.mp3
 - Assets/Resources/Audios/Animales/vaca.mp3
 - Assets/Resources/Audios/G01IN_SA03/3Curita.wav
@@ -102,6 +108,7 @@ Assets:
 - Assets/Resources/Audios/G04IN_SA01/round2.mp3
 - Assets/Resources/Audios/InglesBody/ankle.wav
 - Assets/Resources/Audios/Animales/gallina.mp3
+- Assets/Resources/Audios/G00MT_SM03/Ronda3.mp3
 - Assets/Resources/Audios/G05IN_SA02/G05IN_SA02@audio_2.mp3
 - Assets/Resources/Audios/Animales/caballo.mp3
 - Assets/Resources/Audios/G03IN_SA02/Advice5.mp3
@@ -121,6 +128,7 @@ Assets:
 - Assets/Resources/Audios/G05IN_SA02/G05IN_SA02@audio_3.mp3
 - Assets/Resources/Audios/G03IN_SA01/Car.mp3
 - Assets/Resources/Audios/G02IN_SA03/2.mp3
+- Assets/Resources/Audios/G10IN_SA01/img0.mp3
 - Assets/Resources/Audios/G02LG_SC03/Ronda3.mp3
 - Assets/Resources/Audios/G04IN_SA01/round5.mp3
 - Assets/Resources/Audios/G01LG_SC01/Arcoiris.mp3
@@ -132,14 +140,15 @@ Assets:
 - Assets/Resources/Audios/InglesBody/chest.wav
 - Assets/Resources/Audios/G01LG_SC01/Sombrilla.mp3
 - Assets/Resources/Audios/G02LG_SC03/Ronda2.mp3
-- Assets/Resources/Audios/G05LC_SL01/ronda5.mp3
 - Assets/Resources/Audios/Animales/rana.mp3
+- Assets/Resources/Audios/G04IN_SA02/R3.mp3
+- Assets/Resources/Audios/G10IN_SA01/img1.mp3
 - Assets/Resources/Audios/G05IN_SA01/Ronda2.mp3
-- Assets/Resources/Audios/G05LC_SL01/ronda7.mp3
 - Assets/Resources/Audios/G03CS_ST01/6_Chirva.mp3
 - Assets/Resources/Audios/G02IN_SA03/question4.mp3
 - Assets/Resources/Audios/G02IN_SA03/1.mp3
 - Assets/Resources/Audios/G00IN_SA04/round3.mp3
+- Assets/Resources/Audios/G00MT_SM03/Ronda2.mp3
 - Assets/Resources/Audios/Numeros/10.wav
 - Assets/Resources/Audios/G03IN_SA02/Advice2.mp3
 - Assets/Resources/Audios/G02IN_SA02/G02IN_SA02@audio_3.mp3
@@ -154,7 +163,6 @@ Assets:
 - Assets/Resources/Audios/G03NT_SV01/Guitarra.mp3
 - Assets/Resources/Audios/G00LG_SC01/lluvia.mp3
 - Assets/Resources/Audios/G02IN_SA03/question2.mp3
-- Assets/Resources/Audios/G05LC_SL01/ronda6.mp3
 - Assets/Resources/Audios/Animales/oveja.mp3
 - Assets/Resources/Audios/InglesBody/Eyes.wav
 - Assets/Resources/Audios/G03IN_SA01/Laundry.mp3

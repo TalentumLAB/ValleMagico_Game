@@ -1,16 +1,161 @@
 ManifestFileVersion: 0
-CRC: 4228538578
+CRC: 4051085268
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: acf2e239d708c0487f8b34bc4737282f
+    Hash: f21ed3b6771ffc55a059b1db72af2908
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 5ad585dd02dfb5016c0dad519eab8f49
+    Hash: ce5d292be67dd4f66c5e25bd4a35cf80
 HashAppended: 0
 ClassTypes:
-- Class: 49
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 213
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources/Minigames/TexturesIntMul/Nuevo documento de texto.txt
+- Assets/Resources/Intelligences/Textures/IM09_CICLO3/IM09_CICLO3@Texture_1.png
+- Assets/Resources/Intelligences/Textures/IM06_CICLO2/Audios/IM06_CICLO2/Guasa.mp3
+- "Assets/Resources/Intelligences/Textures/IM15_CICLO5/Audios/Melod\xEDa de Bunde
+  en La marimba.mp3"
+- Assets/Resources/Intelligences/Textures/IM09_CICLO3/IM09_CICLO3@Preview.png
+- Assets/Resources/Intelligences/Textures/IM09_CICLO3/Audios/round4.mp3
+- Assets/Resources/Intelligences/Textures/IM16_CICLO6/IM16_CICLO6@Preview.png
+- Assets/Resources/Intelligences/Textures/IM06_CICLO2/Audios/IM06_CICLO2/Piano.mp3
+- Assets/Resources/Intelligences/Textures/IM15_CICLO5/Audios/Cununo en el bunde.mp3
+- Assets/Resources/Intelligences/Textures/IM12_CICLO4/IM12_CICLO4@Preview1.jpg
+- Assets/Resources/Intelligences/Textures/IM02_CICLO1/audios/sonido 2 gaviota.mp3
+- Assets/Resources/Intelligences/Textures/IM06_CICLO2/Audios/IM06_CICLO2/Flauta.mp3
+- Assets/Resources/Intelligences/Textures/IM11_CICLO4/Preview2.png
+- Assets/Resources/Intelligences/Textures/IM06_CICLO2/Audios/IM06_CICLO2/AlarmaCarro.mp3
+- Assets/Resources/Intelligences/Textures/IM12_CICLO4/Audios/marimba.mp3
+- Assets/Resources/Intelligences/Textures/IM02_CICLO1/audios/sonido 1 ciclo 1 Rana.mp3
+- Assets/Resources/Intelligences/Textures/IM13_CICLO5/IM13_CICLO05@Fondo.png
+- Assets/Resources/Intelligences/Textures/IM18_CICLO6/Audios/bombo-arrullador.mp3
+- Assets/Resources/Intelligences/Textures/IM10_CICLO4/IM10_CICLO4@Texture_0.png
+- Assets/Resources/Intelligences/Textures/IM13_CICLO5/IM13_CICLO05@Texture2.png
+- Assets/Resources/Intelligences/Textures/IM11_CICLO4/textura 1.png
+- Assets/Resources/Intelligences/Textures/IM12_CICLO4/Audios/toques-de-cununo.mp3
+- Assets/Resources/Intelligences/Textures/IM10_CICLO4/IM10_CICLO4@Texture_1.png
+- Assets/Resources/Intelligences/Textures/IM12_CICLO4/Audios/guasa-rapido.mp3
+- Assets/Resources/Intelligences/Textures/IM18_CICLO6/Audios/r2s4.mp3
+- Assets/Resources/Intelligences/Textures/IM12_CICLO4/IM12_CICLO4@Preview3.jpg
+- Assets/Resources/Intelligences/Textures/IM15_CICLO5/Audios/Cununo en la juga.mp3
+- Assets/Resources/Intelligences/Textures/IM04_CICLO2/Preview.png
+- Assets/Resources/Intelligences/Textures/IM13_CICLO5/IM13_CICLO05@Preview.png
+- Assets/Resources/Intelligences/Textures/IM11_CICLO4/textura 2.png
+- Assets/Resources/Intelligences/Textures/IM06_CICLO2/Audios/IM06_CICLO2/LlamadaBallena.mp3
+- Assets/Resources/Intelligences/Textures/IM08_CICLO3/IM08_CICLO3@Preview.png
+- Assets/Resources/Intelligences/Textures/IM04_CICLO2/Elementos.png
+- Assets/Resources/Intelligences/Textures/IM17_CICLO6/IM17_CICLO06_Preview1.png
+- Assets/Resources/Intelligences/Textures/IM08_CICLO3/audios/sonido 3 cascada.mp3
+- Assets/Resources/Intelligences/Textures/IM17_CICLO6/IM17_CICLO06_Preview2.png
+- Assets/Resources/Intelligences/Textures/IM03_CICLO1/Audios/ballena2.mp3
+- Assets/Resources/Intelligences/Textures/IM03_CICLO1/Audios/marimba.mp3
+- Assets/Resources/Intelligences/Textures/IM03_CICLO1/IM03_CICLO1@Texture.png
+- Assets/Resources/Intelligences/Textures/IM15_CICLO5/Audios/Melodia de Juga en la
+  Marimba.mp3
+- Assets/Resources/Intelligences/Textures/IM13_CICLO5/audios/foto currulao.mp3
+- Assets/Resources/Intelligences/Textures/IM03_CICLO1/Audios/caballo.mp3
+- Assets/Resources/Intelligences/Textures/IM02_CICLO1/audios/sonido 1 potrillo.mp3
+- Assets/Resources/Intelligences/Textures/IM17_CICLO6/IM17_CICLO06_Texture1.png
+- Assets/Resources/Intelligences/Textures/IM16_CICLO6/IM16_CICLO6@Texture2.png
+- Assets/Resources/Intelligences/Textures/IM15_CICLO5/Elementos2.png
+- Assets/Resources/Intelligences/Textures/IM12_CICLO4/Audios/cununo.mp3
+- Assets/Resources/Intelligences/Textures/IM06_CICLO2/IM06_CICLO2@Preview2.PNG
+- Assets/Resources/Intelligences/Textures/IM08_CICLO3/audios/sonido 1 vaciado.mp3
+- Assets/Resources/Intelligences/Textures/IM14_CICLO5/IM14_CICLO5_Preview2.png
+- Assets/Resources/Intelligences/Textures/IM18_CICLO6/Audios/r2s1.mp3
+- "Assets/Resources/Intelligences/Textures/IM08_CICLO3/audios/sonido 4 explosi\xF3n.mp3"
+- Assets/Resources/Intelligences/Textures/IM14_CICLO5/IM14_CICLO5_textura2.png
+- Assets/Resources/Intelligences/Textures/IM04_CICLO2/Preview1.png
+- Assets/Resources/Intelligences/Textures/IM10_CICLO4/IM10_CICLO4@Preview1.PNG
+- Assets/Resources/Intelligences/Textures/IM07_CICLO3/Preview1.png
+- Assets/Resources/Intelligences/Textures/IM02_CICLO1/IM02_CICLO1_texture1.png
+- Assets/Resources/Intelligences/Textures/IM02_CICLO1/IM02_CICLO1_Preview0.png
+- Assets/Resources/Intelligences/Textures/IM12_CICLO4/Audios/cununo-ritmo.mp3
+- Assets/Resources/Intelligences/Textures/IM05_CICLO2/Audios/sonido 2.mp3
+- Assets/Resources/Intelligences/Textures/IM05_CICLO2/Audios/sonido 1.mp3
+- Assets/Resources/Intelligences/Textures/IM12_CICLO4/IM12_CICLO4@Texture2.png
+- Assets/Resources/Intelligences/Textures/IM06_CICLO2/Audios/IM06_CICLO2/cununo.mp3
+- Assets/Resources/Intelligences/Textures/IM06_CICLO2/Audios/IM06_CICLO2/Corneta.mp3
+- Assets/Resources/Intelligences/Textures/IM15_CICLO5/Elementos.png
+- Assets/Resources/Intelligences/Textures/IM12_CICLO4/Audios/guasa-ritmo.mp3
+- Assets/Resources/Intelligences/Textures/IM07_CICLO3/Preview.png
+- Assets/Resources/Intelligences/Textures/IM12_CICLO4/IM12_CICLO4@Preview2.png
+- Assets/Resources/Intelligences/Textures/IM18_CICLO6/Audios/bombo-macho.mp3
+- Assets/Resources/Intelligences/Textures/IM05_CICLO2/IM05_CICLO2@Texture.png
+- Assets/Resources/Intelligences/Textures/IM10_CICLO4/Audio/Ronda3.mp3
+- Assets/Resources/Intelligences/Textures/IM06_CICLO2/Audios/IM06_CICLO2/ResoplidoBallena.mp3
+- Assets/Resources/Intelligences/Textures/IM18_CICLO6/Audios/guasa-en-la-juga.mp3
+- Assets/Resources/Intelligences/Textures/IM01_CICLO1/Preview2.png
+- Assets/Resources/Intelligences/Textures/IM18_CICLO6/Audios/r4currulao.mp3
+- Assets/Resources/Intelligences/Textures/IM18_CICLO6/Audios/cununo-en-el-currulao.mp3
+- Assets/Resources/Intelligences/Textures/IM18_CICLO6/Audios/r3s3.mp3
+- Assets/Resources/Intelligences/Textures/IM15_CICLO5/Audios/Cununo.mp3
+- Assets/Resources/Intelligences/Textures/IM18_CICLO6/IM18_CICLO06@Preview1.png
+- Assets/Resources/Intelligences/Textures/IM01_CICLO1/Preview1.png
+- Assets/Resources/Intelligences/Textures/IM15_CICLO5/Preview.jpg
+- Assets/Resources/Intelligences/Textures/IM06_CICLO2/Audios/IM06_CICLO2/Tambora.mp3
+- Assets/Resources/Intelligences/Textures/IM06_CICLO2/IM06_CICLO2@Ronda0.PNG
+- "Assets/Resources/Intelligences/Textures/IM15_CICLO5/Audios/melod\xEDa de marimba
+  en currulao.mp3"
+- Assets/Resources/Intelligences/Textures/IM06_CICLO2/Audios/IM06_CICLO2/Guitarra.mp3
+- Assets/Resources/Intelligences/Textures/IM09_CICLO3/Audios/round5.mp3
+- Assets/Resources/Intelligences/Textures/IM12_CICLO4/Audios/cununo-rapido.mp3
+- Assets/Resources/Intelligences/Textures/IM07_CICLO3/Elementos2.png
+- Assets/Resources/Intelligences/Textures/IM14_CICLO5/IM14_CICLO5_textura1.png
+- Assets/Resources/Intelligences/Textures/IM03_CICLO1/Audios/Trompeta.mp3
+- Assets/Resources/Intelligences/Textures/IM03_CICLO1/Audios/cancion.mp3
+- "Assets/Resources/Intelligences/Textures/IM02_CICLO1/audios/sonido 3. R\xEDo grillos.mp3"
+- Assets/Resources/Intelligences/Textures/IM15_CICLO5/Audios/Guasa.mp3
+- Assets/Resources/Intelligences/Textures/IM10_CICLO4/IM10_CICLO4@Ronda0.png
+- Assets/Resources/Intelligences/Textures/IM12_CICLO4/Audios/toques-de-guasa.mp3
+- Assets/Resources/Intelligences/Textures/IM01_CICLO1/Elementos.png
+- Assets/Resources/Intelligences/Textures/IM16_CICLO6/IM16_CICLO6@Fondo.png
+- Assets/Resources/Intelligences/Textures/IM16_CICLO6/IM16_CICLO6@Texture3.png
+- Assets/Resources/Intelligences/Textures/IM17_CICLO6/IM17_CICLO06_Texture3.png
+- Assets/Resources/Intelligences/Textures/IM10_CICLO4/IM10_CICLO4@Preview2.PNG
+- Assets/Resources/Intelligences/Textures/IM13_CICLO5/IM13_CICLO05@Texture1.png
+- Assets/Resources/Intelligences/Textures/IM12_CICLO4/IM12_CICLO4@Texture1.png
+- Assets/Resources/Intelligences/Textures/IM15_CICLO5/Audios/Cununo en el Currulao.mp3
+- Assets/Resources/Intelligences/Textures/IM15_CICLO5/Audios/Marimba.mp3
+- Assets/Resources/Intelligences/Textures/IM05_CICLO2/IM05_CICLO2@Preview.png
+- Assets/Resources/Intelligences/Textures/IM09_CICLO3/IM09_CICLO3@Ronda0.png
+- Assets/Resources/Intelligences/Textures/IM03_CICLO1/Audios/perro.mp3
+- Assets/Resources/Intelligences/Textures/IM09_CICLO3/IM09_CICLO3@Preview2.png
+- Assets/Resources/Intelligences/Textures/IM18_CICLO6/IM18_CICLO06@Preview2.png
+- Assets/Resources/Intelligences/Textures/IM01_CICLO1/Fondo 0.png
+- Assets/Resources/Intelligences/Textures/IM13_CICLO5/IM13_CICLO05@Texture3.png
+- Assets/Resources/Intelligences/Textures/IM15_CICLO5/Preview1.jpg
+- Assets/Resources/Intelligences/Textures/IM12_CICLO4/Audios/cancionronda4.mp3
+- Assets/Resources/Intelligences/Textures/IM18_CICLO6/IM18_CICLO06@Preview4.png
+- Assets/Resources/Intelligences/Textures/IM18_CICLO6/IM18_CICLO6@Texture.png
+- Assets/Resources/Intelligences/Textures/IM11_CICLO4/Preview1.png
+- Assets/Resources/Intelligences/Textures/IM14_CICLO5/IM14_CICLO5_Preview1.png
+- Assets/Resources/Intelligences/Textures/IM18_CICLO6/Audios/r2s2.mp3
+- Assets/Resources/Intelligences/Textures/IM15_CICLO5/Audios/Bombo.mp3
+- Assets/Resources/Intelligences/Textures/IM16_CICLO6/IM16_CICLO6@Texture1.png
+- Assets/Resources/Intelligences/Textures/IM12_CICLO4/Audios/cancionronda3.mp3
+- Assets/Resources/Intelligences/Textures/IM08_CICLO3/IM08_CICLO3@Texture.png
+- Assets/Resources/Intelligences/Textures/IM06_CICLO2/IM06_CICLO2@Preview1.PNG
+- Assets/Resources/Intelligences/Textures/IM06_CICLO2/IM06_CICLO2@Texture.png
+- Assets/Resources/Intelligences/Textures/IM12_CICLO4/Audios/guasa.mp3
+- Assets/Resources/Intelligences/Textures/IM01_CICLO1/Elementos2.png
+- Assets/Resources/Intelligences/Textures/IM18_CICLO6/Audios/r3s4.mp3
+- Assets/Resources/Intelligences/Textures/IM15_CICLO5/Audios/Canto.mp3
+- Assets/Resources/Intelligences/Textures/IM04_CICLO2/Elementos2.png
+- Assets/Resources/Intelligences/Textures/IM12_CICLO4/Audios/bombo.mp3
+- Assets/Resources/Intelligences/Textures/IM03_CICLO1/Audios/ballena.mp3
+- Assets/Resources/Intelligences/Textures/IM18_CICLO6/Audios/r4juga.mp3
+- Assets/Resources/Intelligences/Textures/IM03_CICLO1/Audios/saxofon.mp3
+- Assets/Resources/Intelligences/Textures/IM09_CICLO3/IM09_CICLO3@Texture_0.png
+- Assets/Resources/Intelligences/Textures/IM07_CICLO3/Elementos.png
+- Assets/Resources/Intelligences/Textures/IM06_CICLO2/Audios/IM06_CICLO2/Marimba.mp3
+- Assets/Resources/Intelligences/Textures/IM02_CICLO1/IM02_CICLO1_texture0.png
+- Assets/Resources/Intelligences/Textures/IM08_CICLO3/audios/sonido 2 vertido.mp3
+- Assets/Resources/Intelligences/Textures/IM17_CICLO6/IM17_CICLO06_Texture2.png
+- Assets/Resources/Intelligences/Textures/IM18_CICLO6/IM18_CICLO06@Preview3.png
 Dependencies: []
