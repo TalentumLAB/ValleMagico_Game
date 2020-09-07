@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1728916343
+CRC: 84691701
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: bd422a2228aa665ba19a1358370e520a
+    Hash: efe049f882c96dd5a873d4ad34425f8f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 03970310989e9ae0e8cd1c6f532688cc
@@ -16,7 +16,6 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources/Minigames/Textures2/G06LC_SL01/G06LC_SL01@Preview2.png
 - Assets/Resources/Minigames/Textures2/G07CS_ST03/G07CS_ST03@Preview_3.png
 - Assets/Resources/Minigames/TexturesLSC/LSC1@Texture.png
 - Assets/Resources/Minigames/Textures2/G07CS_ST03/G07CS_ST03@Preview_6.png

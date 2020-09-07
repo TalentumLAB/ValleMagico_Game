@@ -8,7 +8,7 @@
         },
         {
             "typeServer": 1,
-            "serverHost": "http://vallemagico.co/si/api/"
+            "serverHost": "https://vallemagico.co/si/api/"
         },
         {
             "typeServer": 2,
