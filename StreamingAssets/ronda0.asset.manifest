@@ -1,0 +1,21 @@
+ManifestFileVersion: 0
+CRC: 2137840088
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ef6a9dcb72ddd9e4e73ee2e4f6183e15
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Minigames/UI/Ronda0@Texture.png
+- Assets/Resources/Minigames/UI/Ronda0@Texture2.png
+- Assets/Resources/Minigames/UI/UI@Texture-0.png
+- "Assets/Resources/Minigames/UI/Interfaz-Inclusi\xF3n_Valle_V1-Acceso-a-minijuegos.png"
+Dependencies: []

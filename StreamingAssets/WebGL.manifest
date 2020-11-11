@@ -1,5 +1,5 @@
 ManifestFileVersion: 0
-CRC: 3740062968
+CRC: 277317483
 AssetBundleManifest:
   AssetBundleInfos:
     Info_0:
@@ -12,17 +12,32 @@ AssetBundleManifest:
       Name: player.asset
       Dependencies: {}
     Info_3:
-      Name: minigamesaudio.asset
+      Name: intelligences.asset
       Dependencies: {}
     Info_4:
-      Name: minigames2.asset
+      Name: minigames.asset
       Dependencies: {}
     Info_5:
-      Name: minigames1.asset
+      Name: kiwe.asset
       Dependencies: {}
     Info_6:
-      Name: minigames3.asset
+      Name: yu.asset
       Dependencies: {}
     Info_7:
-      Name: intelligences.asset
+      Name: shirva.asset
+      Dependencies: {}
+    Info_8:
+      Name: itxi.asset
+      Dependencies: {}
+    Info_9:
+      Name: unaha.asset
+      Dependencies: {}
+    Info_10:
+      Name: wexa.asset
+      Dependencies: {}
+    Info_11:
+      Name: ronda0.asset
+      Dependencies: {}
+    Info_12:
+      Name: evaluacion.asset
       Dependencies: {}

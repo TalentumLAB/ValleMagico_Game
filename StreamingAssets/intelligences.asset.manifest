@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 4051085268
+CRC: 978651449
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f21ed3b6771ffc55a059b1db72af2908
+    Hash: 8490d88c13de1e8c63d0c8de1d7f3b1c
   TypeTreeHash:
     serializedVersion: 2
     Hash: ce5d292be67dd4f66c5e25bd4a35cf80
@@ -146,6 +146,7 @@ Assets:
 - Assets/Resources/Intelligences/Textures/IM01_CICLO1/Elementos2.png
 - Assets/Resources/Intelligences/Textures/IM18_CICLO6/Audios/r3s4.mp3
 - Assets/Resources/Intelligences/Textures/IM15_CICLO5/Audios/Canto.mp3
+- Assets/Resources/Intelligences/Textures/IM08_CICLO3/IM08_CICLO3@Preview1.png
 - Assets/Resources/Intelligences/Textures/IM04_CICLO2/Elementos2.png
 - Assets/Resources/Intelligences/Textures/IM12_CICLO4/Audios/bombo.mp3
 - Assets/Resources/Intelligences/Textures/IM03_CICLO1/Audios/ballena.mp3
