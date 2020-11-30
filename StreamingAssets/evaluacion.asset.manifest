@@ -1,0 +1,72 @@
+ManifestFileVersion: 0
+CRC: 951851842
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 9dd55e0939d4b187ac1b94755efe1ae8
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: ea5a42e0fd8ea905efa7aa926a3b8944
+HashAppended: 0
+ClassTypes:
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+Assets:
+- Assets/Resources/Minigames/Textures2/G11IN_EV01/G11IN_EV016.png
+- Assets/Resources/Minigames/Textures2/G11NT_EV01/G11NT_EV01_Preview.png
+- Assets/Resources/Minigames/Textures2/G11IN_EV01/G11IN_EV014.png
+- Assets/Resources/Minigames/Textures2/G11IN_EV01/Preview.png
+- Assets/Resources/Minigames/Textures2/G11MT_EV01/G11MT_EV01@Texture_1.png
+- Assets/Resources/Minigames/Textures2/G09MT_EV01/G09MT_EV01_Preview.png
+- Assets/Resources/Minigames/Textures2/G05NT_EV01/G05NT_EV01.png
+- Assets/Resources/Minigames/Textures2/G11CS_EV01/G11CS_EV011.png
+- Assets/Resources/Minigames/Textures2/G11NT_EV01/G11NT_EV01_Texture1.png
+- Assets/Resources/Minigames/Textures2/G09CS_EV01/G09CS_EV01@Texture_2.png
+- Assets/Resources/Minigames/Textures2/G05NT_EV01/Preview1.png
+- Assets/Resources/Minigames/Textures2/G11LG_EV01/Preview1.png
+- Assets/Resources/Minigames/Textures2/G09CS_EV01/G09CS_EV01@Texture_3.png
+- Assets/Resources/Minigames/Textures2/G05CS_EV01/G05CS_EV01_Preview1.png
+- Assets/Resources/Minigames/Textures2/G11MT_EV01/G11MT_EV01@Preview.png
+- Assets/Resources/Minigames/Textures2/G05LG_EV01/G05LG_EV01@Preview.png
+- Assets/Resources/Minigames/Textures2/G05LG_EV01/G05LG_EV01@Texture.png
+- Assets/Resources/Minigames/Textures2/G03MT_EV01/G03MT_EV01@Texture_2.png
+- Assets/Resources/Minigames/Textures2/G09CS_EV01/G09CS_EV01@Preview.png
+- Assets/Resources/Minigames/Textures2/G09NT_EV01/G09NT_EV01@Texture.png
+- Assets/Resources/Minigames/Textures2/G05NT_EV01/Preview.png
+- Assets/Resources/Minigames/Textures2/G11CS_EV01/Preview.png
+- Assets/Resources/Minigames/Textures2/G09LG_EV01/G09LG_EV01_Texture1.png
+- Assets/Resources/Minigames/Textures2/G05CS_EV01/G05CS_EV01_Texture1.png
+- Assets/Resources/Minigames/Textures2/G11CS_EV01/G11CS_EV01.png
+- Assets/Resources/Minigames/Textures2/G11LG_EV01/G11LG_EV012.png
+- Assets/Resources/Minigames/Textures2/G09CS_EV01/G09CS_EV01@Texture_0.png
+- Assets/Resources/Minigames/Textures2/G03MT_EV01/G03MT_EV01@Texture_1.png
+- Assets/Resources/Minigames/Textures2/G11MT_EV01/G11MT_EV01@Texture_0.png
+- Assets/Resources/Minigames/Textures2/G11IN_EV01/G11IN_EV012.png
+- Assets/Resources/Minigames/Textures2/G09MT_EV01/G09MT_EV01_Texture.png
+- Assets/Resources/Minigames/Textures2/G09CS_EV01/G09CS_EV01@Texture_1.png
+- Assets/Resources/Minigames/Textures2/G09NT_EV01/G09NT_EV01@Preview.png
+- Assets/Resources/Minigames/Textures2/G09LG_EV01/G09LG_EV01_Texture.png
+- Assets/Resources/Minigames/Textures2/G11LG_EV01/G11LG_EV011.png
+- Assets/Resources/Minigames/Textures2/G03LG_EV01/G03LG_EV01_Preview.png
+- Assets/Resources/Minigames/Textures2/G05CS_EV01/G05CS_EV01_Preview.png
+- Assets/Resources/Minigames/Textures2/G11LG_EV01/G11LG_EV013.png
+- Assets/Resources/Minigames/Textures2/G11NT_EV01/G11NT_EV01_Texture.png
+- Assets/Resources/Minigames/Textures2/G11LG_EV01/Preview.png
+- Assets/Resources/Minigames/Textures2/G05MT_EV01/G05MT_EV01.png
+- Assets/Resources/Minigames/Textures2/G03MT_EV01/G03MT_EV01@Texture_0.png
+- Assets/Resources/Minigames/Textures2/G03MT_EV01/G03MT_EV01@Preview.PNG
+- Assets/Resources/Minigames/Textures2/G05CS_EV01/G05CS_EV01_Texture.png
+- Assets/Resources/Minigames/Textures2/G11NT_EV01/G11NT_EV01_Preview1.png
+- Assets/Resources/Minigames/Textures2/G05MT_EV01/Preview.png
+- Assets/Resources/Minigames/Textures2/G03LG_EV01/G03LG_EV01_Preview1.png
+- Assets/Resources/Minigames/Textures2/G09MT_EV01/G09MT_EV01_Texture2.png
+- Assets/Resources/Minigames/Textures2/G11IN_EV01/G11IN_EV011.png
+- Assets/Resources/Minigames/Textures2/G11IN_EV01/G11IN_EV01.png
+- Assets/Resources/Minigames/Textures2/G09LG_EV01/G09LG_EV01_Preview.png
+- Assets/Resources/Minigames/Textures2/G03LG_EV01/G03LG_EV01_textura.png
+- Assets/Resources/Minigames/Textures2/G11IN_EV01/G11IN_EV013.png
+- Assets/Resources/Minigames/Textures2/G11IN_EV01/G11IN_EV015.png
+- Assets/Resources/Minigames/Textures2/G09MT_EV01/G09MT_EV01_Texture1.png
+Dependencies: []

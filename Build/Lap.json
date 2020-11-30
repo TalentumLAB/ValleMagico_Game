@@ -1,0 +1,14 @@
+{
+"companyName": "Talentum",
+"productName": "Valle Mágico",
+"dataUrl": "Lap.data.unityweb",
+"wasmCodeUrl": "Lap.wasm.code.unityweb",
+"wasmFrameworkUrl": "Lap.wasm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"backgroundUrl": "Lap.jpg",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"}
+}

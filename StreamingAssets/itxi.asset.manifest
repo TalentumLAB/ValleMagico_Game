@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 1130063995
+CRC: 3684514175
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: eccb7c2baedb582958759e44089d60ec
+    Hash: ace1c8b4fbdcc2692123e80a8e252e2f
   TypeTreeHash:
     serializedVersion: 2
     Hash: ce5d292be67dd4f66c5e25bd4a35cf80
@@ -16,25 +16,18 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
-- Assets/Resources/Audios/G10IN_SA01/round3.mp3
 - Assets/Resources/Minigames/Textures/G06NT_SV01/G06NT_SV01@Preview.PNG
 - Assets/Resources/Minigames/Textures/G08NT_SV01/G08NT_SV01@Texture_0.png
 - Assets/Resources/Minigames/Textures/G03NT_SV01/G03NT_SV01@Preview.PNG
-- Assets/Resources/Audios/G10IN_SA01/img3.mp3
 - Assets/Resources/Minigames/Textures/G08NT_SV01/G08NT_SV01@Texture_1.png
-- Assets/Resources/Audios/G09IN_SA01/G09IN_SA01_Audio2.mp3
-- Assets/Resources/Audios/G10IN_SA01/round2.mp3
 - Assets/Resources/Audios/G03NT_SV01/Tambora.mp3
 - Assets/Resources/Minigames/Textures/G07NT_SV01/G07NT_SV01@Preview_1.png
 - Assets/Resources/Minigames/Textures/G09NT_SV01/G09NT_SV01@Texture.png
 - Assets/Resources/Minigames/Textures/G05NT_SV01/G05NT_SV01@Preview_1.png
 - Assets/Resources/Minigames/Textures/G04NT_SV01/G04NT_SV01@Texture_2.png
-- Assets/Resources/Audios/G10IN_SA01/img2.mp3
-- Assets/Resources/Audios/G10IN_SA01/introduction.mp3
 - Assets/Resources/Audios/G03NT_SV01/Flauta.mp3
 - Assets/Resources/Minigames/Textures/G09NT_SV01/G09NT_SV01@Preview.PNG
 - Assets/Resources/Minigames/Textures/G08NT_SV01/G08NT_SV01@Preview.PNG
-- Assets/Resources/Audios/G07IN_SA01/G07IN_SA01_Audio.mp3
 - Assets/Resources/Minigames/Textures/G04NT_SV01/G04NT_SV01@Texture_1.png
 - Assets/Resources/Minigames/Textures/G02NT_SV01/G02NT_SV01@Preview.PNG
 - Assets/Resources/Audios/G03NT_SV01/Marimba.mp3
@@ -44,20 +37,15 @@ Assets:
 - Assets/Resources/Minigames/Textures/G07NT_SV01/G07NT_SV01@Texture_1.png
 - Assets/Resources/Minigames/Textures/G02NT_SV01/G02NT_SV01@Texture1.png
 - Assets/Resources/Minigames/Textures2/G11NT_SV01/G11NT_SV01@Preview.PNG
-- Assets/Resources/Audios/G09IN_SA01/G09IN_SA01_Audio1.mp3
-- Assets/Resources/Audios/G10IN_SA01/img0.mp3
-- Assets/Resources/Audios/G10IN_SA01/round1.mp3
 - Assets/Resources/Minigames/Textures/G01CN_SV01/G01CN_SV01@Texture.png
 - Assets/Resources/Minigames/Textures/G00NT_SV01/G00NT_SV01.png
 - Assets/Resources/Minigames/Textures/G06NT_SV01/G06NT_SV01@Texture_1.png
-- Assets/Resources/Audios/G10IN_SA01/img1.mp3
 - Assets/Resources/Minigames/Textures2/G10NT_SV01/G10NT_SV01.png
 - Assets/Resources/Minigames/Textures/G04NT_SV01/G04NT_SV01@Preview_1.png
 - Assets/Resources/Audios/G03NT_SV01/Guitarra.mp3
-- Assets/Resources/Minigames/Textures/G01CN_SV01/G01CN_SV01@Preview.png
+- Assets/Resources/Minigames/Textures/G01CN_SV01/G01CN_SV01@Preview.PNG
 - Assets/Resources/Minigames/Textures/G03NT_SV01/G03NT_SV01@Texture.png
 - Assets/Resources/Audios/G03NT_SV01/Piano.mp3
 - Assets/Resources/Minigames/Textures/G05NT_SV01/G05NT_SV01@Texture_1.png
-- Assets/Resources/Audios/G10IN_SA01/round4.mp3
 - Assets/Resources/Minigames/Textures/G07NT_SV01/G07NT_SV01@Texture_2.png
 Dependencies: []

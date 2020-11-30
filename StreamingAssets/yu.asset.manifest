@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2914135279
+CRC: 3763263065
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 47c16fa038233e524717be7487b5a02c
+    Hash: 8b724c7376638668cbfeefda55288187
   TypeTreeHash:
     serializedVersion: 2
     Hash: ce5d292be67dd4f66c5e25bd4a35cf80
@@ -16,6 +16,7 @@ ClassTypes:
 - Class: 213
   Script: {instanceID: 0}
 Assets:
+- Assets/Resources/Audios/G10IN_SA01/round3.mp3
 - Assets/Resources/Minigames/Textures/G00IN_SA01/G00IN_SA01@Texture.png
 - Assets/Resources/Minigames/Textures/G00IN_SA03/G00IN_SA03.png
 - Assets/Resources/Minigames/Textures/G11IN_SA01/G11IN_SA01@Texture2.png
@@ -24,8 +25,11 @@ Assets:
 - Assets/Resources/Minigames/Textures/G04IN_SA03/G04IN_SA03@Texture01.png
 - Assets/Resources/Audios/Numeros/3.wav
 - Assets/Resources/Minigames/Textures/G07IN_SA01/G07IN_SA01@Preview_1.png
+- Assets/Resources/Audios/G10IN_SA01/img3.mp3
 - Assets/Resources/Audios/InglesBody/Hand.wav
 - Assets/Resources/Minigames/Textures/G05IN_SA01/G05IN_SA01@Texture_1.png
+- Assets/Resources/Audios/G09IN_SA01/G09IN_SA01_Audio2.mp3
+- Assets/Resources/Audios/G10IN_SA01/round2.mp3
 - Assets/Resources/Audios/G01IN_SA04/Brown.mp3
 - Assets/Resources/Minigames/Textures/G05IN_SA02/G05IN_SA02@Preview_1.png
 - Assets/Resources/Audios/InglesBody/Head.wav
@@ -42,6 +46,8 @@ Assets:
 - Assets/Resources/Audios/G02IN_SA02/G02IN_SA02@audio_2.mp3
 - Assets/Resources/Minigames/Textures/G02IN_SA01/G02IN_SA01@Texture_1.png
 - Assets/Resources/Audios/InglesBody/Foot.wav
+- Assets/Resources/Audios/G10IN_SA01/img2.mp3
+- Assets/Resources/Audios/G10IN_SA01/introduction.mp3
 - Assets/Resources/Audios/G03IN_SA02/Advice4.mp3
 - Assets/Resources/Minigames/Textures/G03IN_SA02/G03IN_SA02@Texture03.png
 - Assets/Resources/Minigames/Textures/G03IN_SA03/G03IN_SA03@Preview.png
@@ -71,6 +77,7 @@ Assets:
 - Assets/Resources/Audios/Numeros/1.wav
 - Assets/Resources/Audios/G05IN_SA01/Ronda1.mp3
 - Assets/Resources/Audios/G05IN_SA02/G05IN_SA02@audio_4.mp3
+- Assets/Resources/Audios/G07IN_SA01/G07IN_SA01_Audio.mp3
 - Assets/Resources/Minigames/Textures/G11IN_SA01/G11IN_SA01@Preview.png
 - Assets/Resources/Minigames/Textures/G11IN_SA01/G11IN_SA01@Texture1.png
 - Assets/Resources/Audios/G01IN_SA04/Blue.mp3
@@ -123,20 +130,24 @@ Assets:
 - Assets/Resources/Audios/InglesBody/nail.wav
 - Assets/Resources/Audios/InglesBody/Elbow.wav
 - Assets/Resources/Audios/G01IN_SA04/White.mp3
+- Assets/Resources/Audios/G09IN_SA01/G09IN_SA01_Audio1.mp3
 - Assets/Resources/Audios/G05IN_SA02/G05IN_SA02@audio_3.mp3
 - Assets/Resources/Audios/G03IN_SA01/Car.mp3
 - Assets/Resources/Audios/G02IN_SA03/2.mp3
+- Assets/Resources/Audios/G10IN_SA01/img0.mp3
 - Assets/Resources/Minigames/Textures/G06IN_SA01/G06IN_SA01@Texture_0.png
 - Assets/Resources/Audios/G04IN_SA01/round5.mp3
 - Assets/Resources/Minigames/Textures/G06IN_SA01/G06IN_SA01@Texture_2.png
 - Assets/Resources/Audios/G02IN_SA03/question7.mp3
 - Assets/Resources/Minigames/Textures/G05IN_SA02/G05IN_SA02@Texture_2.png
 - Assets/Resources/Audios/G05IN_SA01/Ronda4.mp3
+- Assets/Resources/Audios/G10IN_SA01/round1.mp3
 - Assets/Resources/Audios/InglesBody/chest.wav
 - Assets/Resources/Minigames/Textures/G04IN_SA03/G04IN_SA03@Preview.png
 - Assets/Resources/Minigames/Textures/G04IN_SA02/G04IN_SA02.png
 - Assets/Resources/Minigames/Textures/G06IN_SA01/G06IN_SA01@Preview2.PNG
 - Assets/Resources/Audios/G04IN_SA02/R3.mp3
+- Assets/Resources/Audios/G10IN_SA01/img1.mp3
 - Assets/Resources/Audios/G05IN_SA01/Ronda2.mp3
 - Assets/Resources/Audios/G02IN_SA03/question4.mp3
 - Assets/Resources/Audios/G02IN_SA03/1.mp3
@@ -164,6 +175,7 @@ Assets:
 - Assets/Resources/Audios/G03IN_SA01/Pipes.mp3
 - Assets/Resources/Audios/Numeros/2.wav
 - Assets/Resources/Minigames/Textures/G05IN_SA01/G05IN_SA01@Preview.PNG
+- Assets/Resources/Audios/G10IN_SA01/round4.mp3
 - Assets/Resources/Minigames/Textures/G02IN_SA02/G02IN_SA02@round0.png
 - Assets/Resources/Minigames/Textures/G03IN_SA02/G03IN_SA02@Preview.png
 - Assets/Resources/Audios/G04IN_SA01/round6.mp3

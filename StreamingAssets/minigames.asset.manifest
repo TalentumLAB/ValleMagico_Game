@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 805603980
+CRC: 905416444
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 995c90b87462c24f29e9b37c04d8dff4
+    Hash: d87d4d2d86d3cf9433141d58dd19a75f
   TypeTreeHash:
     serializedVersion: 2
     Hash: 03970310989e9ae0e8cd1c6f532688cc
@@ -26,11 +26,9 @@ Assets:
 - Assets/Resources/Minigames/Textures2/G05LC_SL01/Preview.png
 - Assets/Resources/Minigames/Textures/G08CS_ST01/Preview.png
 - Assets/Resources/Minigames/Textures2/G00IN_SA04/Mesa de trabajo 4.png
-- Assets/Resources/Minigames/Textures2/G05NT_EV01/Preview1.png
 - Assets/Resources/Minigames/Textures/G10LG_SC01/Recursos 5.png
 - Assets/Resources/Minigames/Textures/G01LG_SC03/Preview.png
 - Assets/Resources/Minigames/Textures2/IM01_CICLO1/Elementos.png
-- Assets/Resources/Minigames/Textures2/G05NT_EV01/Preview.png
 - Assets/Resources/Minigames/Textures2/Nuevo documento de texto.txt
 - Assets/Resources/Minigames/Textures2/G10NT_SV01/Preview.png
 - Assets/Resources/Minigames/Textures/G10LG_SC01/Recursos.png

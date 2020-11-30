@@ -1,9 +1,9 @@
 ManifestFileVersion: 0
-CRC: 2729938529
+CRC: 3903382304
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e48d68ff9dc1823e3eba534594d75dfe
+    Hash: e54e30bee9e00bcd0b7167d58939ec20
   TypeTreeHash:
     serializedVersion: 2
     Hash: ce5d292be67dd4f66c5e25bd4a35cf80
@@ -22,7 +22,9 @@ Assets:
 - Assets/Resources/Audios/G05LC_SL01/ronda1.mp3
 - Assets/Resources/Minigames/Textures2/G08LC_SL01/G08LC_SL01@Preview.PNG
 - Assets/Resources/Minigames/Textures2/G08LC_SL01/G08LC_SL01@Texture_1.png
+- Assets/Resources/Minigames/Textures2/G07LC_SL01/Preview.png
 - Assets/Resources/Minigames/Textures2/G09LC_SL01/G09LC_SL01@Texture2.png
+- Assets/Resources/Minigames/Textures2/G07LC_SL01/G07LC_SL01.png
 - Assets/Resources/Minigames/Textures2/G04LC_SL01/G04LC_SL01@Texture.png
 - Assets/Resources/Minigames/Textures2/G02LC_SL01/G02LC_SL01-1.png
 - Assets/Resources/Minigames/Textures2/G11LC_SL01/G11LC_SL01@Texture_2.png
